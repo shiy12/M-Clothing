@@ -1,3 +1,36 @@
+
+# Preview
+
+
+<h3>Homepage + ShopPage</h3>
+<img src="https://github.com/shiy12/M-Clothing/blob/master/image/home.png" width="575"/>
+<img src="https://github.com/shiy12/M-Clothing/blob/master/image/shop.png" width="575"/>
+
+<h3>Google Sign In Authentication</h3>
+<img src="https://github.com/shiy12/M-Clothing/blob/master/image/google.png" width="575"/>
+
+<h3>Firestore Database</h3>
+<img src="https://github.com/shiy12/M-Clothing/blob/master/image/firebase.png" width="575"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
